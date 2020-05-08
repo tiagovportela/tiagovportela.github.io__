@@ -44,21 +44,21 @@ Assim podemos vizualizar a evolução temporal da capacidade craniana dos ancest
 
 Como se trata de um problema de classificação não supervisionado irei utilizar o k-means como metodo para classificar as especies.
 
-![cranial capacity evolution](images/posts_img/hominid/cc_by_year.png)
+![cranial capacity evolution](/images/posts_img/hominid/cc_by_year.png)
 
 Olhando para o plot não é facil verifical o número de clusters que podemos criar. 
 Para resolver esta questão irei o utilizar o metodo Elbow para determinal o numero ideal de clusters.
 
-![Elbow Plot](images/posts_img/hominid/hominid_Elbow.png)
+![Elbow Plot](/images/posts_img/hominid/hominid_Elbow.png)
 
 
 O curva passa a ser constante a partir do valor 5 assim, o numero ideal de clusters é 5.
 
-![Clusters](images/posts_img/hominid//hominid_clusters.png)
+![Clusters](/images/posts_img/hominid//hominid_clusters.png)
 
 Para verificar a validade destes clusters irei construir um grafico de barras com a frequencia das 8 especies mais frequentes em cada cluster.
 
-![Taxon Frequency](images/posts_img/hominid/taxon_freq_cluster.png)
+![Taxon Frequency](/images/posts_img/hominid/taxon_freq_cluster.png)
 
 Observando o grafico verifica-se que existe uma grande variação de especies dentro de cada cluster, no entanto é possivel vizualizar um clara separação entre 
 
