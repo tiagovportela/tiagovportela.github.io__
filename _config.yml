@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
+title: tiagovportela
+locale: pt_PT
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Tiago Portela
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” ― Richard Feynmann 
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: tiagovportela
   linkedin: #username
-  github: #username
+  github: tiagovportela
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
