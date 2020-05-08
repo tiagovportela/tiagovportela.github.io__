@@ -3,12 +3,32 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+    Relativity
+
+    for Stephen Hawking
+
+    When we wake up brushed by panic in the dark
+    our pupils grope for the shape of things we know.
+
+    Photons loosed from slits like greyhounds at the track
+    reveal light’s doubleness in their cast shadows
+
+    that stripe a dimmed lab’s wall—particles no more—
+    and with a wave bid all certainties goodbye.
+
+    For what’s sure in a universe that dopplers
+    away like a siren’s midnight cry? They say
+
+    a flash seen from on and off a hurtling train
+    will explain why time dilates like a perfect
+
+    afternoon; predicts black holes where parallel lines
+    will meet, whose stark horizon even starlight,
+
+    bent in its tracks, can’t resist. If we can think
+    this far, might not our eyes adjust to the dark?
+
+Sarah Howe’s Loop of Jade was shortlisted for the Forward Prize for Best First Collection. She is a Fellow at Harvard University’s Radcliffe Institute.
+
