@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Classificação de especies de Hominideos pela dimensão do cranio
-subtitle: 
+title:  Classificação de especies de Hominideos pela dimensão do cranio
+excerpt: "Classificação de fossies de hominideos através de metodos de machine learning"
+modified: 05/02/2020, 9:00:24
 tags: [k-means, human evolution]
 comments: true
+category: blog
 ---
-
 
 Ao assistir a [este](https://www.youtube.com/watch?v=XqX72KvH15E) documentario ocorreu-me a ideia de criar um classificador para fosseis de cranios humanos.
 
