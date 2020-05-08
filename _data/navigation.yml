@@ -1,6 +1,6 @@
 # Site navigation links
 - title: Home
-  url: /
+  url: /blog
 
 - title: Presentations
   url: /presentations/
@@ -8,5 +8,5 @@
 # - title: Resume
 #   url: /resume/
 
-- title: Blog
-  url: /blog/
+# - title: Blog
+#   url: /blog/
