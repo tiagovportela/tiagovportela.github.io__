@@ -9,6 +9,6 @@ category: blog
 ---
 
 <div class="simulator-container">
-    <iframe src="https://simulator-infected.herokuapp.com/simulation" height="315" width="1560" allowfullscreen="" frameborder="0">
+    <iframe src="https://simulator-infected.herokuapp.com/simulation" height="315" width="1000" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
